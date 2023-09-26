@@ -40,7 +40,7 @@ rm_bringup
    ```
 2. Git clone into the src folder
    ```
-   git clone https://github.com/westonrobot/
+   git clone https://github.com/westonrobot/wr65b_ros.git
    ```
 3. Install system dependencies
    ```
